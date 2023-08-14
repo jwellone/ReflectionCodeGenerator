@@ -1,0 +1,16 @@
+{
+    "name": "jwellone.ReflectionCodeGenerator.Samples.Scripts",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9403c056842864efb9f9e8615ec109e7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
